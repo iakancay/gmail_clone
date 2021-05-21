@@ -15,6 +15,7 @@
 }
 .header__middle{
     display: flex;
+    height: 30px;
     align-items: center;
     flex:0.7;
     border-radius: 5px;

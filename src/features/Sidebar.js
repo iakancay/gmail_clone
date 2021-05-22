@@ -51,7 +51,7 @@ function Sidebar() {
         }
     ]
   return (
-    <div>
+    <div className="sidebar">
       <Button startIcon={<Add fontSize="large" />} className="sidebar__compose">
         Compose
       </Button>
